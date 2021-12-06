@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Journey App</string>
+    <string name="app_title">Explore you ideal journey in Peru</string>
+    <string name="second_page_title">Find your path</string>
+    <string name="description_app">Here you can explore the most popular and recommended locations.</string>
+    <string name="journey_name">Name</string>
+    <string name="journey_location">Location</string>
+</resources>
